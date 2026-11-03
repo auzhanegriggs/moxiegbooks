@@ -1,10 +1,9 @@
-# book
-This is the repository for my code of a book website.
+
 <!DOCTYPEHTML>
 <html>
 <head>
- <title>moxiegbooks.com<title>
- <head>
+
+</head>
 
  <body>
 
