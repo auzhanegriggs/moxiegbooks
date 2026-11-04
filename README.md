@@ -22,8 +22,7 @@
 
 <a>https://www.amazon.com/amz-books/store?ccs_id=7b7b9787-40b8-4a9b-ae9d-1b066f183f72</a>
  
- <h2>My Image</h2>
- <k77qu3b8lvven1aplk42dl0no5._SY600_._SL200_._PQ50_._FMwebp_>
+ 
  
  </body>
  </html>
